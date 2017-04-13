@@ -1,0 +1,17 @@
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\Winshut\Winshut\bin\Release\Winshut.exe.config
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\Winshut\Winshut\bin\Release\Winshut.exe
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\Winshut\Winshut\bin\Release\Winshut.pdb
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\Winshut\Winshut\bin\Release\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\Winshut\Winshut\bin\Release\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\Winshut\Winshut\bin\Release\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\Winshut\Winshut\obj\Release\MainWindow.g.cs
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\Winshut\Winshut\obj\Release\App.g.cs
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\Winshut\Winshut\obj\Release\Winshut_MarkupCompile.cache
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\Winshut\Winshut\obj\Release\Winshut_MarkupCompile.lref
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\Winshut\Winshut\obj\Release\MainWindow.baml
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\Winshut\Winshut\obj\Release\Winshut.g.resources
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\Winshut\Winshut\obj\Release\Winshut.Properties.Resources.resources
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\Winshut\Winshut\obj\Release\Winshut.csproj.GenerateResource.Cache
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\Winshut\Winshut\obj\Release\Winshut.exe
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\Winshut\Winshut\obj\Release\Winshut.pdb
+C:\Users\Bartosz\Documents\Visual Studio 2015\Projects\Winshut\Winshut\obj\Release\GeneratedInternalTypeHelper.g.cs
