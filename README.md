@@ -1,5 +1,5 @@
 # Winshut
-Application for shutting down the computer after the time which you set up fully working witn Windows 7/8/8.1/10. 
+Application for shutting down the computer after the time which you set up. Fully working on Windows 7/8/8.1/10. 
 Made with WPF.
 
 The code should be quite easy to understand. It have only one view and one class where few methods can handle whole application.
